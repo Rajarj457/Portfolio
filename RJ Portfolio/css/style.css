@@ -6,6 +6,7 @@
 
 /* import global styling */
 @import url(./partials/_global.css);
+/*start of loading area*/
 .loader {
   -webkit-perspective: 700px;
   perspective: 700px;
